@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 day là 1 file
 the la cònlix
+=======
+day là 1 filetâ
+sdaskdkasdjasjkkjad
+>>>>>>> 361eada0486a1ac70e407958b7fde374c011fc72
